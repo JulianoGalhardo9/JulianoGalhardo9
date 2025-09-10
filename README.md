@@ -25,11 +25,11 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 ---
 
 ## 📈 GitHub Stats
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgalhardo9&show_icons=true&hide=issues&count_private=true&theme=radical)
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgalhardo&show_icons=true&hide=issues&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo9&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo&layout=compact&theme=radical)
 ## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo9&layout=donut&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo&layout=donut&langs_count=8&theme=radical)
 
 ---
 
