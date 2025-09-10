@@ -1,4 +1,4 @@
-#  Olá, eu sou o Juliano Galhardo de Oliveira  
+# Olá, eu sou o Juliano Galhardo de Oliveira 👋
 
 Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixonado por tecnologia, inovação e resolver problemas com código.  
 
@@ -11,7 +11,7 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ---
 
-##  Tecnologias & Linguagens
+## 💻 Tecnologias & Linguagens
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -25,16 +25,39 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 ---
 
 ## 📈 GitHub Stats
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgalhardo&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo&layout=compact&theme=radical)
+![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgalhardo&show_icons=true&hide=issues&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo&layout=compact&theme=radical)
 
 ---
 
-##  Sobre mim
-- Gosto de trabalhar em equipe, aprender coisas novas e enfrentar desafios  
-- Desenvolvi um projeto estilo **Show do Milhão** em Pygame + MySQL
-- Desenvolvi projetos Web  
+## 🚀 Projetos Recentes
+
+### 1. **Show do Milhão - Pygame + MySQL**
+- Um jogo interativo estilo “Show do Milhão” com sistema de perguntas e respostas, integração com banco de dados para pontuação e ranking.
+- Tecnologias: Python, Pygame, MySQL.
+
+### 2. **Câmbio Certo - Conversor de Moedas**
+- Conversor de moedas simples, rápido e intuitivo, com interface web responsiva e suporte a múltiplas moedas.
+- Tecnologias: HTML, CSS, JavaScript.
+
+### 3. **Expense Tracker - Gerenciador de Despesas**
+- Sistema para registrar, categorizar e controlar despesas, com cálculo automático de totais e interface limpa.
+- Tecnologias: HTML, CSS, JavaScript.
 
 ---
 
-⭐ Se gostou do meu perfil, não esqueça de deixar uma **estrela** nos meus repositórios!
+## 🏆 Certificados & Conquistas
+- **Certificação Python - 2024** - Curso em Vídeo  
+- **Certificação Python - 2025** - HarvardX CS50P  
+- **Certificação SQL - 2025** - Xperiun  
+- **Certificação Git e GitHub - 2025** - FGV  
+- **Certificação Programação Web - 2025** - Rocketseat  
+- **Certificação Introdução à Ciência de Dados (R) - 2025** - Instituto Mauá de Tecnologia (IMT)  
+- **Certificação Fundamentos de HTML e CSS (40h) - 2025** - Rocketseat  
+- **Certificação JavaScript (40h) - 2025** - Rocketseat  
+- **Certificação Full-Stack (180h) - 2025** - Rocketseat  
+
+---
+
+## ⭐ Gostou do meu perfil?
+Se gostou do meu trabalho, não esqueça de deixar uma **estrela** nos meus repositórios do GitHub!  
