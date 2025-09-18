@@ -24,13 +24,6 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ---
 
-## 📈 GitHub Stats
-![Juliano's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgalhardo&show_icons=true&hide=issues&count_private=true&theme=radical)
-## 🔥 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardo&layout=donut&langs_count=8&theme=radical)
-
----
-
 ## 🚀 Projetos Recentes
 
 ### 1. **Show do Milhão - Pygame + MySQL**
@@ -45,6 +38,10 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 - Sistema para registrar, categorizar e controlar despesas, com cálculo automático de totais e interface limpa.
 - Tecnologias: HTML, CSS, JavaScript.
 
+### 4. **Schedule-hub - Gerenciador de horários para barbearias**
+- Sistema para gerenciar agendamentos de cortes de cabelo, com cadastro, listagem e cancelamento em tempo real, interface intuitiva e responsiva.
+- Tecnologias: HTML, CSS, JavaScript, Node.js, Express.
+
 ---
 
 ## 🏆 Certificados & Conquistas
@@ -55,8 +52,9 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 - **Certificação Programação Web - 2025** - Rocketseat  
 - **Certificação Introdução à Ciência de Dados (R) - 2025** - Instituto Mauá de Tecnologia (IMT)  
 - **Certificação Fundamentos de HTML e CSS (40h) - 2025** - Rocketseat  
-- **Certificação JavaScript (40h) - 2025** - Rocketseat  
-- **Certificação Full-Stack (180h) - 2025** - Rocketseat  
+- **Certificação JavaScript - 2025** - Rocketseat  
+- **Certificação Full-Stack - 2025** - Rocketseat
+- **Certificação Banco de Dados - 2025** - Rocketseat  
 
 ---
 
