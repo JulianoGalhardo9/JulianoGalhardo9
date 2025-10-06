@@ -42,21 +42,26 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 - Sistema para gerenciar agendamentos de cortes de cabelo, com cadastro, listagem e cancelamento em tempo real, interface intuitiva e responsiva.
 - Tecnologias: HTML, CSS, JavaScript, Node.js, Express.
 
+### 5. **Rokuzen - Site Institucional e Sistema de Agendamentos**
+- Desenvolvimento do site institucional e do sistema de agendamentos da empresa Rokuzen, com design pixel-perfect, interface responsiva e integração completa entre front-end e back-end.
+- Tecnologias: HTML, CSS, JavaScript, Node.js, PostgreSQL.
+
 ---
 
-## 🏆 Certificados & Conquistas
+## 🏆 Certificados
 - **Certificação Python - 2024** - Curso em Vídeo  
 - **Certificação Python - 2025** - HarvardX CS50P  
 - **Certificação SQL - 2025** - Xperiun  
 - **Certificação Git e GitHub - 2025** - FGV  
 - **Certificação Programação Web - 2025** - Rocketseat  
 - **Certificação Introdução à Ciência de Dados (R) - 2025** - Instituto Mauá de Tecnologia (IMT)  
-- **Certificação Fundamentos de HTML e CSS (40h) - 2025** - Rocketseat  
+- **Certificação Fundamentos de HTML e CSS - 2025** - Rocketseat  
 - **Certificação JavaScript - 2025** - Rocketseat  
 - **Certificação Full-Stack - 2025** - Rocketseat
-- **Certificação Banco de Dados - 2025** - Rocketseat  
+- **Certificação Banco de Dados - 2025** - Rocketseat
+- **Certificação Web Development Fundamentals - 2025** - IBM
 
 ---
 
-## ⭐ Gostou do meu perfil?
+## ⭐ Gostou do meu perfil ?
 Se gostou do meu trabalho, não esqueça de deixar uma **estrela** nos meus repositórios do GitHub!  
