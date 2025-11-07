@@ -48,17 +48,10 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ---
 
-## 📊 Git Analytics
+## ⚙️ GitHub Analytics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jgalhardodev&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub do Juliano" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jgalhardodev&theme=radical&hide_border=true" alt="Streak Stats do Juliano" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardodev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
-  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=jgalhardodev&limit=5&theme=radical&hide_border=true" alt="Total de Commits" />
-</p>
+[![Juliano Galhardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoGalhardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/JulianoGalhardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo&hide_progress=true&theme=github_dark)](https://github.com/JulianoGalhardo/github-readme-stats)
 
 ---
 
