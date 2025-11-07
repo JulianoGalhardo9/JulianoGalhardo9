@@ -50,11 +50,11 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ## 📊 Estatísticas
 <div align="left">
-    <img 
+<img 
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=tokyonight&locale=pt-br" 
+  src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
 />
     <img 
         alt="Top Langs" 
