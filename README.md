@@ -50,8 +50,8 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ## ⚙️ GitHub Analytics
 
-[![Juliano Galhardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoGalhardo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/JulianoGalhardo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo&hide_progress=true&theme=github_dark)](https://github.com/JulianoGalhardo/github-readme-stats)
+[![Juliano Galhardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)](https://github.com/JulianoGalhardo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&hide_progress=true&theme=github_dark)](https://github.com/JulianoGalhardo/github-readme-stats)
 
 ---
 
