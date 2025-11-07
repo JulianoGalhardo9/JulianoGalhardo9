@@ -48,6 +48,20 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ---
 
+## 📊 Git Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jgalhardodev&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Estatísticas do GitHub do Juliano" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jgalhardodev&theme=radical&hide_border=true" alt="Streak Stats do Juliano" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgalhardodev&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
+  <img width="48%" src="https://github-contributor-stats.vercel.app/api?username=jgalhardodev&limit=5&theme=radical&hide_border=true" alt="Total de Commits" />
+</p>
+
+---
+
 ## 🏆 Certificados
 - **Certificação Python - 2024** - Curso em Vídeo  
 - **Certificação Python - 2025** - HarvardX CS50P  
@@ -57,9 +71,9 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 - **Certificação Introdução à Ciência de Dados (R) - 2025** - Instituto Mauá de Tecnologia (IMT)  
 - **Certificação Fundamentos de HTML e CSS - 2025** - Rocketseat  
 - **Certificação JavaScript - 2025** - Rocketseat  
-- **Certificação Full-Stack - 2025** - Rocketseat
-- **Certificação Banco de Dados - 2025** - Rocketseat
-- **Certificação Web Development Fundamentals - 2025** - IBM
+- **Certificação Full-Stack - 2025** - Rocketseat  
+- **Certificação Banco de Dados - 2025** - Rocketseat  
+- **Certificação Web Development Fundamentals - 2025** - IBM  
 
 ---
 
