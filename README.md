@@ -53,6 +53,7 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry&hide_border=false&langs_count=10)
 
 ---
 
