@@ -15,11 +15,6 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 
-  <a href="https://wa.me/5511994161012">
-    <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
-  </a>
-</p>
-
 ---
 
 ## 💻 Tecnologias & Linguagens
