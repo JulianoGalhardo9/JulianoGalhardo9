@@ -52,13 +52,13 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianoGalhardo9&theme=tokyonight" 
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianoGalhardo9&theme=tokyonight"
   />
-  <img 
-    height="180em" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianoGalhardo9&theme=tokyonight" 
+  <img
+    height="180em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianoGalhardo9&theme=tokyonight"
   />
 </p>
 
