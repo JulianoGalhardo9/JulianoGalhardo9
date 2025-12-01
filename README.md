@@ -1,6 +1,6 @@
 # Olá, eu sou o Juliano Galhardo de Oliveira 👋
 
-Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixonado por tecnologia, inovação e resolver problemas com código.  
+Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º semestre) no Instituto Mauá de Tecnologia.
 
 ---
 
@@ -24,39 +24,6 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 
 ---
 
-## 🚀 Projetos Recentes
-
-### 1. **Show do Milhão - Pygame + MySQL**
-- Um jogo interativo estilo “Show do Milhão” com sistema de perguntas e respostas, integração com banco de dados para pontuação e ranking.
-- Tecnologias: Python, Pygame, MySQL.
-
-### 2. **Câmbio Certo - Conversor de Moedas**
-- Conversor de moedas simples, rápido e intuitivo, com interface web responsiva e suporte a múltiplas moedas.
-- Tecnologias: HTML, CSS, JavaScript.
-
-### 3. **Expense Tracker - Gerenciador de Despesas**
-- Sistema para registrar, categorizar e controlar despesas, com cálculo automático de totais e interface limpa.
-- Tecnologias: HTML, CSS, JavaScript.
-
-### 4. **Schedule-hub - Gerenciador de horários para barbearias**
-- Sistema para gerenciar agendamentos de cortes de cabelo, com cadastro, listagem e cancelamento em tempo real, interface intuitiva e responsiva.
-- Tecnologias: HTML, CSS, JavaScript, Node.js, Express.
-
-### 5. **Rokuzen - Site Institucional e Sistema de Agendamentos**
-- Desenvolvimento do site institucional e do sistema de agendamentos da empresa Rokuzen, com design pixel-perfect, interface responsiva e integração completa entre front-end e back-end.
-- Tecnologias: HTML, CSS, JavaScript, Node.js, PostgreSQL.
-
----
-
-## 📊 Git Status
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry&hide_border=false&langs_count=10)
-
----
-
 ## 🏆 Certificados
 - **Certificação Python - 2024** - Curso em Vídeo  
 - **Certificação Python - 2025** - HarvardX CS50P  
@@ -68,9 +35,14 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 - **Certificação JavaScript - 2025** - Rocketseat  
 - **Certificação Full-Stack - 2025** - Rocketseat  
 - **Certificação Banco de Dados - 2025** - Rocketseat  
-- **Certificação Web Development Fundamentals - 2025** - IBM  
+- **Certificação Web Development Fundamentals - 2025** - IBM
+- **Certificação Cloud Computing Fundamentals - 2025** - IBM
+- **Certificação Node.js - 2025** - RocketSeat
 
 ---
 
-## ⭐ Gostou do meu perfil ?
-Se gostou do meu trabalho, não esqueça de deixar uma **estrela** nos meus repositórios do GitHub!  
+## Git Status
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
