@@ -30,20 +30,16 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 
 ---
 
-## 🏆 Certificados
-- **Certificação Python - 2024** - Curso em Vídeo  
-- **Certificação Python - 2025** - HarvardX CS50P  
-- **Certificação SQL - 2025** - Xperiun  
+## 🏆 Principais certificados
+
+- **Certificação Lógica da Programação - 2025** - HarvardX CS50P  
 - **Certificação Git e GitHub - 2025** - FGV  
-- **Certificação Programação Web - 2025** - Rocketseat  
-- **Certificação Introdução à Ciência de Dados (R) - 2025** - Instituto Mauá de Tecnologia (IMT)  
-- **Certificação Fundamentos de HTML e CSS - 2025** - Rocketseat  
-- **Certificação JavaScript - 2025** - Rocketseat  
-- **Certificação Full-Stack - 2025** - Rocketseat  
-- **Certificação Banco de Dados - 2025** - Rocketseat  
+- **Certificação Fundamentos de HTML e CSS - 2025** - Rocketseat
 - **Certificação Web Development Fundamentals - 2025** - IBM
-- **Certificação Cloud Computing Fundamentals - 2025** - IBM
+- **Certificação JavaScript - 2025** - Rocketseat
 - **Certificação Node.js - 2025** - RocketSeat
+- **Certificação Full-Stack - 2025** - Rocketseat  
+- **Certificação Banco de Dados - 2025** - Rocketseat
 
 ---
 
