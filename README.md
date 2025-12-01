@@ -5,9 +5,20 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 ---
 
 ## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511994161012)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jgalhardodev@gmail.com)
+
+<p>
+  <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+  <a href="mailto:jgalhardodev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+
+  <a href="https://wa.me/5511994161012">
+    <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" />
+  </a>
+</p>
 
 ---
 
@@ -19,7 +30,7 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
