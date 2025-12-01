@@ -49,11 +49,11 @@ Estudante de **Ciência da Computação** | Desenvolvedor em formação | Apaixo
 ---
 
 ## 📊 Git Status
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&langs_count=10&theme=tokyonight" />
+</p>
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianoGalhardo9&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianoGalhardo9&theme=tokyonight)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianoGalhardo9&theme=tokyonight)
 
 ---
 
