@@ -14,6 +14,7 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
   <a href="mailto:jgalhardodev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
 
 ---
 
@@ -26,25 +27,42 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
 
-## 🏆 Principais certificados
+## 🏆 Principais Certificados
 
-- **Certificação Lógica da Programação - 2025** - HarvardX CS50P  
-- **Certificação Git e GitHub - 2025** - FGV  
-- **Certificação Fundamentos de HTML e CSS - 2025** - Rocketseat
-- **Certificação Web Development Fundamentals - 2025** - IBM
-- **Certificação JavaScript - 2025** - Rocketseat
-- **Certificação Node.js - 2025** - RocketSeat
-- **Certificação Full-Stack - 2025** - Rocketseat  
-- **Certificação Banco de Dados - 2025** - Rocketseat
+- **Certificação Lógica da Programação - 2025** — HarvardX CS50P  
+- **Certificação Git e GitHub - 2025** — FGV  
+- **Certificação Fundamentos de HTML e CSS - 2025** — Rocketseat  
+- **Certificação Web Development Fundamentals - 2025** — IBM  
+- **Certificação JavaScript - 2025** — Rocketseat  
+- **Certificação Node.js - 2025** — Rocketseat  
+- **Certificação Full-Stack - 2025** — Rocketseat  
+- **Certificação Banco de Dados - 2025** — Rocketseat  
 
 ---
 
-## Git Status
+## 📊 GitHub Status
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianoGalhardo9&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=blueberry&hide_border=false&count_private=true" 
+    height="165" 
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false" 
+    height="165" 
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry&hide_border=false" 
+  />
+
+</div>
+
+---
