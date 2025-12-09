@@ -21,14 +21,17 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 ## 💻 Tecnologias & Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+  <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
   <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
 </p>
+
 
 ---
 
