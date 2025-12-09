@@ -43,8 +43,9 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 - **Certificação Web Development Fundamentals - 2025** — IBM  
 - **Certificação JavaScript - 2025** — Rocketseat  
 - **Certificação Node.js - 2025** — Rocketseat  
-- **Certificação Full-Stack - 2025** — Rocketseat  
-- **Certificação Banco de Dados - 2025** — Rocketseat  
+- **Certificação Full-Stack - 2025** — Rocketseat
+- **Certificação Introdução a C# e .NET - 2025** — Rocketseat 
+- **Certificação Banco de Dados - 2025** — Rocketseat
 
 ---
 
