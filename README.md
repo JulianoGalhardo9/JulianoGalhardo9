@@ -1,10 +1,10 @@
-# Olá, eu sou o Juliano Galhardo de Oliveira 👋
+# Hello, I'm Juliano Galhardo de Oliveira. 👋
 
-Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º semestre) no Instituto Mauá de Tecnologia.
+I am 19 years old and I am in my second year (3rd semester) of Computer Science at the Mauá Institute of Technology.
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Conect with me
 
 <p>
   <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
@@ -18,7 +18,7 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 
 ---
 
-## 💻 Tecnologias & Linguagens
+## 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet" />
@@ -35,28 +35,23 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 
 ---
 
-## 🏆 Principais Certificados
+## 🏆 Main certificates
 
-- **Certificação Lógica da Programação - 2025** — HarvardX CS50P  
-- **Certificação Git e GitHub - 2025** — FGV  
-- **Certificação HTML e CSS - 2025** — Rocketseat  
-- **Certificação JavaScript - 2025** — Rocketseat
-- **Certificação Web Development Fundamentals - 2025** — IBM    
-- **Certificação Node.js - 2025** — Rocketseat  
-- **Certificação Full-Stack - 2025** — Rocketseat
-- **Certificação C# | .NET - 2025** — Rocketseat 
-- **Certificação SQL - 2025** — Rocketseat
+- **Programming Logic Certification - 2025** — HarvardX CS50P
+- **Git and GitHub Certification - 2025** — FGV
+- **HTML and CSS Certification - 2025** — Rocketseat
+- **JavaScript Certification - 2025** — Rocketseat
+- **Web Development Fundamentals Certification - 2025** — IBM
+- **Node.js Certification - 2025** — Rocketseat
+- **Full-Stack Certification - 2025** — Rocketseat
+- **C# | .NET Certification - 2025** — Rocketseat
+- **SQL Certification - 2025** — Rocketseat
 
 ---
 
 ## 📊 GitHub Status
 
 <div align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=blueberry&hide_border=false&count_private=true" 
-    height="165" 
-  />
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false" 
