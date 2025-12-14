@@ -23,13 +23,13 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet" />
   <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 
@@ -39,13 +39,13 @@ Tenho 19 anos e estou cursando o segundo ano de Ciência de Computação (3º se
 
 - **Certificação Lógica da Programação - 2025** — HarvardX CS50P  
 - **Certificação Git e GitHub - 2025** — FGV  
-- **Certificação Fundamentos de HTML e CSS - 2025** — Rocketseat  
-- **Certificação Web Development Fundamentals - 2025** — IBM  
-- **Certificação JavaScript - 2025** — Rocketseat  
+- **Certificação HTML e CSS - 2025** — Rocketseat  
+- **Certificação JavaScript - 2025** — Rocketseat
+- **Certificação Web Development Fundamentals - 2025** — IBM    
 - **Certificação Node.js - 2025** — Rocketseat  
 - **Certificação Full-Stack - 2025** — Rocketseat
-- **Certificação Introdução a C# e .NET - 2025** — Rocketseat 
-- **Certificação Banco de Dados - 2025** — Rocketseat
+- **Certificação C# | .NET - 2025** — Rocketseat 
+- **Certificação SQL - 2025** — Rocketseat
 
 ---
 
