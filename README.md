@@ -1,6 +1,6 @@
 # Hello, I'm Juliano Galhardo de Oliveira. 👋
 
-I am 19 years old and I am in my second year (3rd semester) of Computer Science at the Mauá Institute of Technology.
+I am 19 years old and I am in my second year (1rd semester) of software engineering at the FIAP.
 
 ---
 
