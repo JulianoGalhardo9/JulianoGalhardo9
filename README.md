@@ -41,7 +41,6 @@ I am 19 years old and I am in my second year (1rd semester) of software engineer
 - **Git and GitHub Certification - 2025** — FGV
 - **HTML and CSS Certification - 2025** — Rocketseat
 - **JavaScript Certification - 2025** — Rocketseat
-- **Web Development Fundamentals Certification - 2025** — IBM
 - **Node.js Certification - 2025** — Rocketseat
 - **Full-Stack Certification - 2025** — Rocketseat
 - **C# | .NET Certification - 2025** — Rocketseat
@@ -52,16 +51,12 @@ I am 19 years old and I am in my second year (1rd semester) of software engineer
 ## 📊 GitHub Status
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry"/>
+</div>
 
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry&hide_border=false" 
-    height="165" 
-  />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry&hide_border=false" 
-  />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry" alt="GitHub Streak" />
 </div>
 
 ---
