@@ -51,12 +51,12 @@ I am 19 years old and I am in my second year (1rd semester) of software engineer
 ## 📊 GitHub Status
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JulianoGalhardo9&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry" height="170px" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry" height="170px" />
 </div>
 
 ---
