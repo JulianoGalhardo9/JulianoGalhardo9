@@ -31,7 +31,7 @@ I am 19 years old and I am in my second year (1rd semester) of software engineer
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgre" />
+  <img src="https://skillicons.dev/icons?i=postgree" />
 </p>
 
 
