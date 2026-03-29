@@ -1,7 +1,9 @@
 # Hello, I'm Juliano Galhardo de Oliveira. 👋
 
-I am 19 years old and I am in my second year (1rd semester) of software engineering at the FIAP.
-
+Software Engineering student at FIAP (1st semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on backend development using C# and .NET, with hands-on experience building RESTful APIs, data modeling with SQL Server, and service integration following clean architecture principles and best practices.
+Experienced in frontend development with Angular, creating modular, scalable applications with strong component-based architecture and efficient API consumption.
+Familiar with Docker for containerization, enabling consistent development environments and streamlined deployment processes.
+Continuously improving my technical skills with a focus on building robust, scalable, and high-performance full stack applications aligned with modern software engineering standards.
 ---
 
 ## 🌐 Conect with me
