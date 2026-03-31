@@ -49,6 +49,7 @@ Continuously improving my technical skills with a focus on building robust, scal
 - **Git and GitHub Certification - 2025** — FGV
 - **HTML and CSS Certification - 2025** — Rocketseat
 - **JavaScript Certification - 2025** — Rocketseat
+- - **Angular Certification - 2026** — Rocketseat
 - **Node.js Certification - 2025** — Rocketseat
 - **Full-Stack Certification - 2025** — Rocketseat
 - **C# | .NET Certification - 2025** — Rocketseat
