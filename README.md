@@ -9,18 +9,16 @@ Familiar with Docker for containerization, enabling consistent development envir
 Continuously improving my technical skills with a focus on building robust, scalable, and high-performance full stack applications aligned with modern software engineering standards.
 
 ---
-
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/JulianoGalhardo9/FinanceFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" alt="FinanceFlow Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" />
   </a>
   <a href="https://github.com/JulianoGalhardo9/CriptoArbitrage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" alt="CriptoArbitrage Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" />
   </a>
-</div>
-
+</p>
 ---
 
 ## 🌐 Conect with me
