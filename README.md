@@ -10,6 +10,21 @@ Continuously improving my technical skills with a focus on building robust, scal
 
 ---
 
+## 🚀 Featured Projects
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/JulianoGalhardo9/FinanceFlow">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" />
+  </a>
+  <a href="https://github.com/JulianoGalhardo9/CriptoArbitrage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" />
+  </a>
+</div>
+
+---
+
 ## 🌐 Conect with me
 
 <p>
