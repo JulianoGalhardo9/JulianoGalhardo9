@@ -12,19 +12,17 @@ Continuously improving my technical skills with a focus on building robust, scal
 
 ## 🚀 Featured Projects
 
-<div align="center">
+> **💰 [FinanceFlow](https://github.com/JulianoGalhardo9/FinanceFlow)**
+>
+> **`C#` `.NET 8` `SQL Server` `Entity Framework` `Clean Architecture`**
+> *API RESTful robusta para gestão financeira, focada em padrões de projeto, separação de responsabilidades e persistência de dados eficiente.*
 
-### [FinanceFlow](https://github.com/JulianoGalhardo9/FinanceFlow)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-*Sistema de gestão financeira focado em backend robusto e Clean Architecture.*
+> **📈 [CriptoArbitrage](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
+>
+> **`TypeScript` `Angular` `Node.js` `RxJS`**
+> *Plataforma de análise de arbitragem de criptomoedas, integrando múltiplas APIs para identificar oportunidades de lucro em tempo real com dashboard modular.*
 
-<br />
-
-### [CriptoArbitrage](https://github.com/JulianoGalhardo9/CriptoArbitrage)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-*Algoritmo para análise de arbitragem de criptomoedas entre diferentes exchanges.*
-
-</div>
+> 💡 *Sempre aberto a contribuições e feedbacks — sinta-se à vontade para abrir uma issue ou PR!*
 
 ---
 
