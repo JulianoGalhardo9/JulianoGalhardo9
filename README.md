@@ -12,17 +12,17 @@ Continuously improving my technical skills with a focus on building robust, scal
 
 ## 🚀 Featured Projects
 
-> **💰 [FinanceFlow](https://github.com/JulianoGalhardo9/FinanceFlow)**
+> **💰 [FinanceFlow | Full-Stack Asset Management Ecosystem](https://github.com/JulianoGalhardo9/FinanceFlow)**
 >
-> **`C#` `.NET 8` `SQL Server` `Entity Framework` `Clean Architecture`**
-> *API RESTful robusta para gestão financeira, focada em padrões de projeto, separação de responsabilidades e persistência de dados eficiente.*
+> **`.NET 9` `Angular 18` `SQL Server` `EF Core 9` `Serilog` `xUnit`**
+> *High-performance platform for investment portfolio tracking. Engineered for **mission-critical systems**, prioritizing **security (Asymmetric JWT)**, **full auditability (Structured Logging)**, and **comprehensive test coverage (Unit/Integration)**. Built with Clean Architecture to ensure strict decoupling of business logic and infrastructure.*
 
-> **📈 [CriptoArbitrage](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
+> **📈 [CryptoArbitrage | High-Frequency Monitoring System](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
 >
-> **`TypeScript` `Angular` `Node.js` `RxJS`**
-> *Plataforma de análise de arbitragem de criptomoedas, integrando múltiplas APIs para identificar oportunidades de lucro em tempo real com dashboard modular.*
+> **`.NET 9` `Worker Services` `Angular 18` `Docker` `MariaDB` `RxJS`**
+> *Real-time arbitrage monitor designed to track price discrepancies across multiple exchanges. Leverages **Worker Services for low-latency parallel processing**, optimized algorithms for **spread calculation**, and a scalable infrastructure via **Docker Compose**. Focused on high availability and high-frequency API consumption.*
 
-> 💡 *Sempre aberto a contribuições e feedbacks — sinta-se à vontade para abrir uma issue ou PR!*
+> 💡 *Both projects demonstrate a deep understanding of software engineering applied to financial markets, focusing on scalability, performance, and enterprise-grade development standards.*
 
 ---
 
