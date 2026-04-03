@@ -64,24 +64,24 @@ Continuously improving my technical skills with a focus on building robust, scal
 
 - **Programming Logic Certification - 2025** — HarvardX CS50P
 - **Git and GitHub Certification - 2025** — FGV
-- **HTML and CSS Certification - 2025** — Rocketseat
-- **JavaScript Certification - 2025** — Rocketseat
 - **Angular Certification - 2026** — Rocketseat
 - **Node.js Certification - 2025** — Rocketseat
-- **Full-Stack Certification - 2025** — Rocketseat
 - **C# | .NET Certification - 2025** — Rocketseat
+- **C# | .NET Certification - 2026** - Microsoft
 - **SQL Certification - 2025** — Rocketseat
 
 ---
 
-## 📊 GitHub Status
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianoGalhardo9&layout=compact&theme=blueberry" height="170px" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JulianoGalhardo9&theme=blueberry" height="170px" />
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JulianoGalhardo9&theme=radical) | ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JulianoGalhardo9&theme=radical) | ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JulianoGalhardo9&theme=radical) |
+|:-:|:-:|:-:|
+
+| ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulianoGalhardo9&theme=radical) | ![Streak](https://streak-stats.demolab.com?user=JulianoGalhardo9&theme=tokyonight&hide_border=false) |
+|:-:|:-:|
+
 </div>
 
 ---
