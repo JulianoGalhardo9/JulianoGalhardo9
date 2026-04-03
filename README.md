@@ -14,16 +14,12 @@ Continuously improving my technical skills with a focus on building robust, scal
 
 <div align="center">
   <a href="https://github.com/JulianoGalhardo9/FinanceFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" alt="FinanceFlow Card" />
   </a>
   <a href="https://github.com/JulianoGalhardo9/CriptoArbitrage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" alt="CriptoArbitrage Card" />
   </a>
 </div>
-
-<br />
-
-> **Note:** My projects focus on **Clean Architecture**, **SOLID principles**, and high-performance backend systems using **.NET** and **C#**.
 
 ---
 
