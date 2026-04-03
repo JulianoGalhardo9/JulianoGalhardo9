@@ -9,16 +9,23 @@ Familiar with Docker for containerization, enabling consistent development envir
 Continuously improving my technical skills with a focus on building robust, scalable, and high-performance full stack applications aligned with modern software engineering standards.
 
 ---
+
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/JulianoGalhardo9/FinanceFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=FinanceFlow&theme=blueberry" />
-  </a>
-  <a href="https://github.com/JulianoGalhardo9/CriptoArbitrage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JulianoGalhardo9&repo=CriptoArbitrage&theme=blueberry" />
-  </a>
-</p>
+<div align="center">
+
+### [FinanceFlow](https://github.com/JulianoGalhardo9/FinanceFlow)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+*Sistema de gestão financeira focado em backend robusto e Clean Architecture.*
+
+<br />
+
+### [CriptoArbitrage](https://github.com/JulianoGalhardo9/CriptoArbitrage)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+*Algoritmo para análise de arbitragem de criptomoedas entre diferentes exchanges.*
+
+</div>
+
 ---
 
 ## 🌐 Conect with me
