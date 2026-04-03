@@ -55,7 +55,6 @@ Continuously improving my technical skills with a focus on building robust, scal
   <img src="https://skillicons.dev/icons?i=docker" />
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" alt="SQL Server" width="40" height="40" />
 </p>
 
 
