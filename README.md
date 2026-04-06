@@ -17,6 +17,12 @@ Continuously improving my technical skills with a focus on building robust, scal
 > **`.NET 9` `Angular 18` `SQL Server` `EF Core 9` `Serilog` `xUnit`**
 > *High-performance platform for investment portfolio tracking. Engineered for **mission-critical systems**, prioritizing **security (Asymmetric JWT)**, **full auditability (Structured Logging)**, and **comprehensive test coverage (Unit/Integration)**. Built with Clean Architecture to ensure strict decoupling of business logic and infrastructure.*
 
+**🏦 [CreditCore | Distributed Credit Analysis Platform](https://github.com/JulianoGalhardo9/CreditCore)**
+>
+> **`.NET 9` `Microservices` `RabbitMQ` `MassTransit` `YARP` `SQL Server` `Docker` `xUnit`**
+> *Event-driven microservices ecosystem simulating critical credit approval flows for banking systems. Implements **CQRS with MediatR**, **Database-per-Service** with isolated SQL Server instances, and fully **asynchronous loan evaluation** via RabbitMQ. Features a unified API Gateway (YARP) with aggregated Swagger, immutable audit logs for compliance, and complete infrastructure via Docker Compose with Auto-Migrations.*
+
+
 > **📈 [CryptoArbitrage | High-Frequency Monitoring System](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
 >
 > **`.NET 9` `Worker Services` `Angular 18` `Docker` `MariaDB` `RxJS`**
