@@ -53,6 +53,7 @@ Continuously improving my technical skills with a focus on building robust, scal
   <img src="https://skillicons.dev/icons?i=cs" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=angular" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
   <img src="https://skillicons.dev/icons?i=javascript" />
