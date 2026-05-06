@@ -31,6 +31,14 @@ Continuously improving my technical skills with a focus on building robust, scal
 > 💡 *Both projects demonstrate a deep understanding of software engineering applied to financial markets, focusing on scalability, performance, and enterprise-grade development standards.*
 
 ---
+## 🎓 Study Projects
+
+> **🐇 [MicroservicesRabbitMQ | Event-Driven Microservices Study](https://github.com/JulianoGalhardo9/MicroservicesRabbitMQ)**
+>
+> **`.NET 9` `C# 13` `RabbitMQ` `AMQP` `Docker`**
+>
+> *Hands-on exploration of **Event-Driven Architecture (EDA)** with asynchronous communication between decoupled microservices. Implements a full producer/consumer pipeline over RabbitMQ, with emphasis on **async-first design (IConnection/IChannel)**, **idempotent queue declaration**, and **binary serialization via AMQP protocol**. Built on Apple Silicon M3 leveraging the full async API of RabbitMQ.Client v7.0+.*
+---
 
 ## 🌐 Conect with me
 
