@@ -1,12 +1,16 @@
 # Hello, I'm Juliano Galhardo de Oliveira 👋
 
-Software Engineering student at FIAP (3st semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on backend development using C# and .NET, with hands-on experience building RESTful APIs, data modeling with SQL Server, and service integration following clean architecture principles and best practices.
+Software Engineering student at FIAP (3rd semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on **backend development** using **C# and .NET**, building production-grade systems with Clean Architecture, RESTful APIs, and SQL Server — from simple CRUD services to distributed microservices ecosystems with CQRS, event-driven messaging (RabbitMQ + MassTransit), and API gateways (YARP).
 
-Experienced in frontend development with Angular, creating modular, scalable applications with strong component-based architecture and efficient API consumption.
+Experienced in **security engineering**, implementing asymmetric JWT authentication, immutable audit logs for compliance, and structured logging with Serilog — prioritizing observability and traceability in critical systems.
 
-Familiar with Docker for containerization, enabling consistent development environments and streamlined deployment processes.
+Strong background in **testing and reliability**, writing unit and integration tests with xUnit to ensure correctness and confidence in production deployments.
 
-Continuously improving my technical skills with a focus on building robust, scalable, and high-performance full stack applications aligned with modern software engineering standards.
+On the **frontend**, experienced with Angular 18 and React, building modular, scalable applications with strong component-based architecture, efficient API consumption, and reactive patterns using RxJS.
+
+Comfortable with **Docker and containerization** — including multi-container orchestration via Docker Compose with auto-migrations — enabling consistent development environments and streamlined deployment workflows.
+
+Continuously improving with a focus on **distributed systems**, **high-performance architectures**, and **software engineering best practices**.
 
 ---
 
