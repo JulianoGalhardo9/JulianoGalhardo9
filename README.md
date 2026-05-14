@@ -51,6 +51,8 @@ Continuously improving with a focus on **distributed systems**, **high-performan
 >
 > *Hands-on exploration of **CQRS (Command Query Responsibility Segregation)** and **Clean Architecture** with a full order management system. Implements a dual-ORM pipeline where **Commands** flow through Entity Framework Core for transactional writes and **Queries** are served via Dapper for high-performance reads — both over the same SQL Server instance. Emphasizes **Rich Domain Models**, **Domain Events**, **FluentValidation**, and **Global Exception Handling** via custom middlewares. Validated with xUnit + Moq unit tests across the Application layer.*
 
+---
+
 ## 🌐 Conect with me
 
 <p>
