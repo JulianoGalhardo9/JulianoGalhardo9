@@ -1,6 +1,6 @@
 # Hello, I'm Juliano Galhardo de Oliveira 👋
 
-Software Engineering student at FIAP (3rd semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on **backend development** using **C# and .NET**, building production-grade systems with Clean Architecture, RESTful APIs, and SQL Server — from simple CRUD services to distributed microservices ecosystems with CQRS, event-driven messaging (RabbitMQ + MassTransit), and API gateways (YARP).
+Software Engineering student at FIAP (3rd semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on **backend development** using **Node**, **C# and .NET**, building production-grade systems with Clean Architecture, RESTful APIs, and SQL Server — from simple CRUD services to distributed microservices ecosystems with CQRS, event-driven messaging (RabbitMQ + MassTransit), and API gateways (YARP).
 
 Experienced in **security engineering**, implementing asymmetric JWT authentication, immutable audit logs for compliance, and structured logging with Serilog — prioritizing observability and traceability in critical systems.
 
@@ -42,7 +42,14 @@ Continuously improving with a focus on **distributed systems**, **high-performan
 > **`.NET 9` `C# 13` `RabbitMQ` `AMQP` `Docker`**
 >
 > *Hands-on exploration of **Event-Driven Architecture (EDA)** with asynchronous communication between decoupled microservices. Implements a full producer/consumer pipeline over RabbitMQ, with emphasis on **async-first design (IConnection/IChannel)**, **idempotent queue declaration**, and **binary serialization via AMQP protocol**. Built on Apple Silicon M3 leveraging the full async API of RabbitMQ.Client v7.0+.*
+
 ---
+
+> **🏗️ [OrderManagementCQRS | CQRS & Clean Architecture Study](https://github.com/JulianoGalhardo9/OrderManagementCQRS)**
+>
+> **`.NET 9` `C# 13` `EF Core` `Dapper` `MediatR` `SQL Server` `Docker`**
+>
+> *Hands-on exploration of **CQRS (Command Query Responsibility Segregation)** and **Clean Architecture** with a full order management system. Implements a dual-ORM pipeline where **Commands** flow through Entity Framework Core for transactional writes and **Queries** are served via Dapper for high-performance reads — both over the same SQL Server instance. Emphasizes **Rich Domain Models**, **Domain Events**, **FluentValidation**, and **Global Exception Handling** via custom middlewares. Validated with xUnit + Moq unit tests across the Application layer.*
 
 ## 🌐 Conect with me
 
