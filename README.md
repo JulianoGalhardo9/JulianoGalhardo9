@@ -96,6 +96,7 @@ Continuously improving with a focus on **distributed systems**, **high-performan
 - **Node.js Certification - 2025** — Rocketseat
 - **C# | .NET Certification - 2025** — Rocketseat
 - **C# | .NET Certification - 2026** - Microsoft
+- **C# | .NET Certification - 2026** - FIAP
 - **SQL Certification - 2025** — Rocketseat
 
 ---
