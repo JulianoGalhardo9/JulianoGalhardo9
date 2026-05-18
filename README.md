@@ -54,7 +54,9 @@ Continuously improving with a focus on **distributed systems**, **high-performan
 ---
 
 > **🔐 [IdentityMicroservice | JWT Authentication & Clean Architecture Study](https://github.com/JulianoGalhardo9/jwt-auth-study)**
+> 
 > **`.NET 9` `C# 13` `JWT BCrypt` `EF Core` `FluentValidation`**
+> 
 > Hands-on exploration of **JWT Authentication** and **Clean Architecture** with a full identity and access management system. Implements a secure auth pipeline with short-lived **Access Tokens** and **Refresh Token Rotation** — where each refresh token is single-use and immediately invalidated upon renewal, mitigating session hijacking risks. Emphasizes **Rich Domain Models**, **Result Pattern** over exception-based flow control, and **FluentValidation** for decoupled input validation. Built over an in-memory **EF Core** provider with **BCrypt** adaptive password hashing.
 
 ---
