@@ -8,9 +8,9 @@ Strong background in **testing and reliability**, writing unit and integration t
 
 On the **frontend**, experienced with Angular 18 and React, building modular, scalable applications with strong component-based architecture, efficient API consumption, and reactive patterns using RxJS.
 
-Comfortable with **Docker and containerization**, including multi-container orchestration via Docker Compose with auto-migrations — enabling consistent development environments and streamlined deployment workflows.
+Comfortable with **Docker and containerization**, including multi-container orchestration via Docker Compose with auto-migrations, enabling consistent development environments and streamlined deployment workflows.
 
-Currently studying AWS cloud infrastructure and cloud-native architectures, with hands-on experience in **IAM, AWS CLI, EC2, ECS, Fargate, Auto Scaling, Load Balancers, Spot Instances, and container-based deployments**. Exploring scalable and distributed environments with a focus on cost optimization, infrastructure automation, and modern deployment strategies.
+Currently studying AWS cloud infrastructure and cloud-native architectures, with hands-on experience in **IAM, AWS CLI, EC2, ECS, Fargate, Auto Scaling, Load Balancers, Amazon S3, CloudFront, Lambda triggers, static website hosting, and containerized deployments**. Exploring scalable systems, cloud storage, infrastructure automation, and modern deployment strategies.
 
 Continuously improving with a focus on **distributed systems**, **high-performance architectures**, and **software engineering best practices**.
 
