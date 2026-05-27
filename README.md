@@ -1,114 +1,105 @@
-# Hello, I'm Juliano Galhardo de Oliveira 👋
+# Olá, sou Juliano Galhardo de Oliveira 👋
 
-Software Engineering student at FIAP (3rd semester), with a previous academic background in Computer Science at Instituto Mauá de Tecnologia (1 year). Focused on **backend development** using **Node**, **C# and .NET**, building production-grade systems with Clean Architecture, RESTful APIs, and SQL Server — from simple CRUD services to distributed microservices ecosystems with CQRS, event-driven messaging (RabbitMQ + MassTransit), and API gateways (YARP).
+Estudante de Engenharia de Software na FIAP (3º semestre), com passagem anterior pelo curso de Ciência da Computação no Instituto Mauá de Tecnologia. Apaixonado por **desenvolvimento backend** com **Node**, **C# e .NET**, construindo sistemas robustos com Clean Architecture, APIs RESTful e SQL Server — de serviços CRUD até ecossistemas de microsserviços distribuídos com CQRS, mensageria assíncrona (RabbitMQ + MassTransit) e API Gateways (YARP).
 
-Experienced in **security engineering**, implementing asymmetric JWT authentication, immutable audit logs for compliance, and structured logging with Serilog — prioritizing observability and traceability in critical systems.
+Experiência em **engenharia de segurança**: autenticação JWT assimétrica, logs de auditoria imutáveis para conformidade e logging estruturado com Serilog. No **frontend**, atuo com Angular 18 e React em arquiteturas baseadas em componentes com consumo de APIs e padrões reativos via RxJS.
 
-Strong background in **testing and reliability**, writing unit and integration tests with xUnit to ensure correctness and confidence in production deployments.
+Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations. Atualmente explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
 
-On the **frontend**, experienced with Angular 18 and React, building modular, scalable applications with strong component-based architecture, efficient API consumption, and reactive patterns using RxJS.
-
-Comfortable with **Docker and containerization**, including multi-container orchestration via Docker Compose with auto-migrations, enabling consistent development environments and streamlined deployment workflows.
-
-Currently studying AWS cloud infrastructure and cloud-native architectures, with hands-on experience in **IAM, AWS CLI, EC2, ECS, Fargate, Auto Scaling, Load Balancers, Amazon S3, CloudFront, Lambda triggers, static website hosting, and containerized deployments**. Exploring scalable systems, cloud storage, infrastructure automation, and modern deployment strategies.
-
-Continuously improving with a focus on **distributed systems**, **high-performance architectures**, and **software engineering best practices**.
+Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance** e **boas práticas de engenharia de software**.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em Destaque
 
-> **💰 [FinanceFlow | Full-Stack Asset Management Ecosystem](https://github.com/JulianoGalhardo9/FinanceFlow)**
+> **💰 [FinanceFlow | Ecossistema Full-Stack de Gestão de Ativos](https://github.com/JulianoGalhardo9/FinanceFlow)**
 >
 > **`.NET 9` `Angular 18` `SQL Server` `EF Core 9` `Serilog` `xUnit`**
-> *High-performance platform for investment portfolio tracking. Engineered for **mission-critical systems**, prioritizing **security (Asymmetric JWT)**, **full auditability (Structured Logging)**, and **comprehensive test coverage (Unit/Integration)**. Built with Clean Architecture to ensure strict decoupling of business logic and infrastructure.*
-
-> **🏦 [CreditCore | Distributed Credit Analysis Platform](https://github.com/JulianoGalhardo9/CreditCore)**
 >
-> **`.NET 9` `Microservices` `RabbitMQ` `MassTransit` `YARP` `SQL Server` `Docker` `xUnit`**
-> *Event-driven microservices ecosystem simulating critical credit approval flows for banking systems. Implements **CQRS with MediatR**, **Database-per-Service** with isolated SQL Server instances, and fully **asynchronous loan evaluation** via RabbitMQ. Features a unified API Gateway (YARP) with aggregated Swagger, immutable audit logs for compliance, and complete infrastructure via Docker Compose with Auto-Migrations.*
+> Plataforma de alto desempenho para rastreamento de portfólio de investimentos. Projetado para **sistemas de missão crítica**, com foco em **segurança (JWT Assimétrico)**, **auditabilidade total (Logging Estruturado)** e **cobertura de testes abrangente (Unitários/Integração)**. Construído com Clean Architecture para garantir desacoplamento estrito entre lógica de negócio e infraestrutura.
 
+> **🏦 [CreditCore | Plataforma Distribuída de Análise de Crédito](https://github.com/JulianoGalhardo9/CreditCore)**
+>
+> **`.NET 9` `Microsserviços` `RabbitMQ` `MassTransit` `YARP` `SQL Server` `Docker` `xUnit`**
+>
+> Ecossistema de microsserviços orientado a eventos simulando fluxos críticos de aprovação de crédito para sistemas bancários. Implementa **CQRS com MediatR**, **Database-per-Service** com instâncias SQL Server isoladas e **avaliação assíncrona de empréstimos** via RabbitMQ. Inclui API Gateway unificado (YARP) com Swagger agregado, logs de auditoria imutáveis e infraestrutura completa via Docker Compose com Auto-Migrations.
 
-> **📈 [CryptoArbitrage | High-Frequency Monitoring System](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
+> **📈 [CryptoArbitrage | Sistema de Monitoramento de Alta Frequência](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
 >
 > **`.NET 9` `Worker Services` `Angular 18` `Docker` `MariaDB` `RxJS`**
-> *Real-time arbitrage monitor designed to track price discrepancies across multiple exchanges. Leverages **Worker Services for low-latency parallel processing**, optimized algorithms for **spread calculation**, and a scalable infrastructure via **Docker Compose**. Focused on high availability and high-frequency API consumption.*
-
-> 💡 *Both projects demonstrate a deep understanding of software engineering applied to financial markets, focusing on scalability, performance, and enterprise-grade development standards.*
+>
+> Monitor de arbitragem em tempo real para rastrear discrepâncias de preço entre múltiplas exchanges. Utiliza **Worker Services para processamento paralelo de baixa latência**, algoritmos otimizados para **cálculo de spread** e infraestrutura escalável via **Docker Compose**. Foco em alta disponibilidade e consumo intensivo de APIs.
 
 ---
-## 🎓 Study Projects
 
-> **🐇 [MicroservicesRabbitMQ | Event-Driven Microservices Study](https://github.com/JulianoGalhardo9/MicroservicesRabbitMQ)**
+## 🎓 Projetos de Estudo
+
+> **🐇 [MicroservicesRabbitMQ | Estudo de Microsserviços Orientados a Eventos](https://github.com/JulianoGalhardo9/MicroservicesRabbitMQ)**
 >
 > **`.NET 9` `C# 13` `RabbitMQ` `AMQP` `Docker`**
 >
-> *Hands-on exploration of **Event-Driven Architecture (EDA)** with asynchronous communication between decoupled microservices. Implements a full producer/consumer pipeline over RabbitMQ, with emphasis on **async-first design (IConnection/IChannel)**, **idempotent queue declaration**, and **binary serialization via AMQP protocol**. Built on Apple Silicon M3 leveraging the full async API of RabbitMQ.Client v7.0+.*
+> Exploração prática de **Arquitetura Orientada a Eventos (EDA)** com comunicação assíncrona entre microsserviços desacoplados. Implementa pipeline completo produtor/consumidor sobre RabbitMQ, com ênfase em **design async-first (IConnection/IChannel)**, **declaração idempotente de filas** e **serialização binária via protocolo AMQP**.
 
----
-
-> **🏗️ [OrderManagementCQRS | CQRS & Clean Architecture Study](https://github.com/JulianoGalhardo9/OrderManagementCQRS)**
+> **🏗️ [OrderManagementCQRS | Estudo de CQRS & Clean Architecture](https://github.com/JulianoGalhardo9/OrderManagementCQRS)**
 >
 > **`.NET 9` `C# 13` `EF Core` `Dapper` `MediatR` `SQL Server` `Docker`**
 >
-> *Hands-on exploration of **CQRS (Command Query Responsibility Segregation)** and **Clean Architecture** with a full order management system. Implements a dual-ORM pipeline where **Commands** flow through Entity Framework Core for transactional writes and **Queries** are served via Dapper for high-performance reads — both over the same SQL Server instance. Emphasizes **Rich Domain Models**, **Domain Events**, **FluentValidation**, and **Global Exception Handling** via custom middlewares. Validated with xUnit + Moq unit tests across the Application layer.*
+> Exploração prática de **CQRS** e **Clean Architecture** com um sistema completo de gerenciamento de pedidos. Pipeline dual-ORM: **Commands** via Entity Framework Core para escritas transacionais e **Queries** via Dapper para leituras de alta performance. Inclui **Rich Domain Models**, **Domain Events**, **FluentValidation** e **tratamento global de exceções** via middlewares customizados.
+
+> **🔐 [IdentityMicroservice | Estudo de Autenticação JWT & Clean Architecture](https://github.com/JulianoGalhardo9/jwt-auth-study)**
+>
+> **`.NET 9` `C# 13` `JWT` `BCrypt` `EF Core` `FluentValidation`**
+>
+> Exploração prática de **Autenticação JWT** e **Clean Architecture** com um sistema completo de gerenciamento de identidade. Pipeline seguro com **Access Tokens** de curta duração e **Rotação de Refresh Tokens** — cada token de refresh é de uso único e imediatamente invalidado após renovação, mitigando riscos de session hijacking. Ênfase em **Rich Domain Models**, **Result Pattern** e **BCrypt** para hashing adaptativo de senhas.
 
 ---
 
-> **🔐 [IdentityMicroservice | JWT Authentication & Clean Architecture Study](https://github.com/JulianoGalhardo9/jwt-auth-study)**
-> 
-> **`.NET 9` `C# 13` `JWT BCrypt` `EF Core` `FluentValidation`**
-> 
-> Hands-on exploration of **JWT Authentication** and **Clean Architecture** with a full identity and access management system. Implements a secure auth pipeline with short-lived **Access Tokens** and **Refresh Token Rotation** — where each refresh token is single-use and immediately invalidated upon renewal, mitigating session hijacking risks. Emphasizes **Rich Domain Models**, **Result Pattern** over exception-based flow control, and **FluentValidation** for decoupled input validation. Built over an in-memory **EF Core** provider with **BCrypt** adaptive password hashing.
+## ☁️ Em Estudo Atualmente
+
+- **AWS Cloud** — IAM, EC2, ECS, Fargate, S3, CloudFront, Lambda, Auto Scaling, Load Balancers
+- **Arquiteturas cloud-native** — deployments containerizados, automação de infraestrutura e sistemas escaláveis
 
 ---
 
-## 🌐 Conect with me
+## 🏆 Certificações
 
-<p>
-  <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:jgalhardodev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-## 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet" />
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" />
-  <img src="https://skillicons.dev/icons?i=typescript" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
+| Certificação | Instituição | Ano |
+|---|---|---|
+| Programming Logic (CS50P) | HarvardX | 2025 |
+| Git e GitHub | FGV | 2025 |
+| Node.js | Rocketseat | 2025 |
+| C# \| .NET | Rocketseat | 2025 |
+| SQL | Rocketseat | 2025 |
+| Angular | Rocketseat | 2026 |
+| C# \| .NET | Microsoft | 2026 |
+| C# \| .NET | FIAP | 2026 |
 
 ---
 
-## 🏆 Main certificates
+## 💻 Tecnologias
 
-- **Programming Logic Certification - 2025** — HarvardX CS50P
-- **Git and GitHub Certification - 2025** — FGV
-- **Angular Certification - 2026** — Rocketseat
-- **Node.js Certification - 2025** — Rocketseat
-- **C# | .NET Certification - 2025** — Rocketseat
-- **C# | .NET Certification - 2026** - Microsoft
-- **C# | .NET Certification - 2026** - FIAP
-- **SQL Certification - 2025** — Rocketseat
+**Backend & Infraestrutura**
+
+![.NET](https://skillicons.dev/icons?i=dotnet)
+![C#](https://skillicons.dev/icons?i=cs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
+
+**Frontend**
+
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![React](https://skillicons.dev/icons?i=react)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+
+**Banco de Dados & Versionamento**
+
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
@@ -125,3 +116,14 @@ Continuously improving with a focus on **distributed systems**, **high-performan
 </div>
 
 ---
+
+## 🌐 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:jgalhardodev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
