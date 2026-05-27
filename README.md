@@ -1,6 +1,6 @@
 # Olá, sou Juliano Galhardo de Oliveira 👋
 
-Estudante de Engenharia de Software na FIAP (3º semestre), com passagem anterior pelo curso de Ciência da Computação no Instituto Mauá de Tecnologia. Apaixonado por **desenvolvimento backend** com **Node**, **C# e .NET**, construindo sistemas robustos com Clean Architecture, APIs RESTful e SQL Server — de serviços CRUD até ecossistemas de microsserviços distribuídos com CQRS, mensageria assíncrona (RabbitMQ + MassTransit) e API Gateways (YARP).
+Estudante de Engenharia de Software na FIAP (3º semestre), com passagem anterior pelo curso de Ciência da Computação no Instituto Mauá de Tecnologia(1 ano/ 2 semestre). Apaixonado por **desenvolvimento backend** com **Node**, **C# e .NET**, construindo sistemas robustos com Clean Architecture, APIs RESTful e SQL Server — de serviços CRUD até ecossistemas de microsserviços distribuídos com CQRS, mensageria assíncrona (RabbitMQ + MassTransit) e API Gateways (YARP).
 
 Experiência em **engenharia de segurança**: autenticação JWT assimétrica, logs de auditoria imutáveis para conformidade e logging estruturado com Serilog. No **frontend**, atuo com Angular 18 e React em arquiteturas baseadas em componentes com consumo de APIs e padrões reativos via RxJS.
 
