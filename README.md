@@ -12,11 +12,9 @@ Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance
 
 ## 🚀 Projetos em Destaque
 
-> **💰 [FinanceFlow | Ecossistema Full-Stack de Gestão de Ativos](https://github.com/JulianoGalhardo9/FinanceFlow)**
->
-> **`.NET 9` `Angular 18` `SQL Server` `EF Core 9` `Serilog` `xUnit`**
->
-> Plataforma de alto desempenho para rastreamento de portfólio de investimentos. Projetado para **sistemas de missão crítica**, com foco em **segurança (JWT Assimétrico)**, **auditabilidade total (Logging Estruturado)** e **cobertura de testes abrangente (Unitários/Integração)**. Construído com Clean Architecture para garantir desacoplamento estrito entre lógica de negócio e infraestrutura.
+>**[AWS Lab Platform | Arquitetura de Microsserviços Multimodelo](https://github.com/JulianoGalhardo9/aws-lab-platform)**
+>**`.NET 10` `AWS Lambda` `ECS Fargate` `SQS/SNS` `Docker` `GitHub Actions`**
+>Plataforma distribuída de alto desempenho para processamento assíncrono e orientado a eventos de arquivos. Projetada para sistemas cloud-native de missão crítica, com foco em segurança **(JWT/ECDSA Assimétrico)**, **observabilidade total (Serilog + CloudWatch)** e resiliência por **design (DLQ + Long Polling)**. Construída com **Clean Architecture e modelo híbrido Serverless** + Container para máxima eficiência de custo e escalabilidade automática.
 
 > **🏦 [CreditCore | Plataforma Distribuída de Análise de Crédito](https://github.com/JulianoGalhardo9/CreditCore)**
 >
