@@ -4,7 +4,9 @@ Estudante de Engenharia de Software na FIAP (3º semestre), com passagem anterio
 
 Experiência em **engenharia de segurança**: autenticação JWT assimétrica, logs de auditoria imutáveis para conformidade e logging estruturado com Serilog. No **frontend**, atuo com Angular 18 e React em arquiteturas baseadas em componentes com consumo de APIs e padrões reativos via RxJS.
 
-Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations. Atualmente explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
+Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations.
+
+Atualmente explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
 
 Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance** e **boas práticas de engenharia de software**.
 
@@ -51,13 +53,6 @@ Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance
 > **`.NET 9` `C# 13` `JWT` `BCrypt` `EF Core` `FluentValidation`**
 >
 > Exploração prática de **Autenticação JWT** e **Clean Architecture** com um sistema completo de gerenciamento de identidade. Pipeline seguro com **Access Tokens** de curta duração e **Rotação de Refresh Tokens** — cada token de refresh é de uso único e imediatamente invalidado após renovação, mitigando riscos de session hijacking. Ênfase em **Rich Domain Models**, **Result Pattern** e **BCrypt** para hashing adaptativo de senhas.
-
----
-
-## ☁️ Em Estudo Atualmente
-
-- **AWS Cloud** — IAM, EC2, ECS, Fargate, S3, CloudFront, Lambda, Auto Scaling, Load Balancers
-- **Arquiteturas cloud-native** — deployments containerizados, automação de infraestrutura e sistemas escaláveis
 
 ---
 
