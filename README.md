@@ -14,19 +14,19 @@ Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance
 
 ## 🚀 Projetos em Destaque
 
->**☁️ [AWS Lab Platform | Arquitetura de Microsserviços Multimodelo](https://github.com/JulianoGalhardo9/aws-lab-platform)**
+>**[AWS Lab Platform | Arquitetura de Microsserviços Multimodelo](https://github.com/JulianoGalhardo9/aws-lab-platform)**
 >
 >**`.NET 10` `AWS Lambda` `ECS Fargate` `SQS/SNS` `Docker` `GitHub Actions`**
 >
 >Plataforma distribuída de alto desempenho para processamento assíncrono e orientado a eventos de arquivos. Projetada para sistemas cloud-native de missão crítica, com foco em segurança **(JWT/ECDSA Assimétrico)**, **observabilidade total (Serilog + CloudWatch)** e resiliência por **design (DLQ + Long Polling)**. Construída com **Clean Architecture e modelo híbrido Serverless** + Container para máxima eficiência de custo e escalabilidade automática.
 
-> **🏦 [CreditCore | Plataforma Distribuída de Análise de Crédito](https://github.com/JulianoGalhardo9/CreditCore)**
+> **[CreditCore | Plataforma Distribuída de Análise de Crédito](https://github.com/JulianoGalhardo9/CreditCore)**
 >
 > **`.NET 9` `Microsserviços` `RabbitMQ` `MassTransit` `YARP` `SQL Server` `Docker` `xUnit`**
 >
 > Ecossistema de microsserviços orientado a eventos simulando fluxos críticos de aprovação de crédito para sistemas bancários. Implementa **CQRS com MediatR**, **Database-per-Service** com instâncias SQL Server isoladas e **avaliação assíncrona de empréstimos** via RabbitMQ. Inclui API Gateway unificado (YARP) com Swagger agregado, logs de auditoria imutáveis e infraestrutura completa via Docker Compose com Auto-Migrations.
 
-> **📈 [CryptoArbitrage | Sistema de Monitoramento de Alta Frequência](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
+> **[CryptoArbitrage | Sistema de Monitoramento de Alta Frequência](https://github.com/JulianoGalhardo9/CriptoArbitrage)**
 >
 > **`.NET 9` `Worker Services` `Angular 18` `Docker` `MariaDB` `RxJS`**
 >
@@ -36,19 +36,19 @@ Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance
 
 ## 🎓 Projetos de Estudo
 
-> **🐇 [MicroservicesRabbitMQ | Estudo de Microsserviços Orientados a Eventos](https://github.com/JulianoGalhardo9/MicroservicesRabbitMQ)**
+> **[MicroservicesRabbitMQ | Estudo de Microsserviços Orientados a Eventos](https://github.com/JulianoGalhardo9/MicroservicesRabbitMQ)**
 >
 > **`.NET 9` `C# 13` `RabbitMQ` `AMQP` `Docker`**
 >
 > Exploração prática de **Arquitetura Orientada a Eventos (EDA)** com comunicação assíncrona entre microsserviços desacoplados. Implementa pipeline completo produtor/consumidor sobre RabbitMQ, com ênfase em **design async-first (IConnection/IChannel)**, **declaração idempotente de filas** e **serialização binária via protocolo AMQP**.
 
-> **🏗️ [OrderManagementCQRS | Estudo de CQRS & Clean Architecture](https://github.com/JulianoGalhardo9/OrderManagementCQRS)**
+> **[OrderManagementCQRS | Estudo de CQRS & Clean Architecture](https://github.com/JulianoGalhardo9/OrderManagementCQRS)**
 >
 > **`.NET 9` `C# 13` `EF Core` `Dapper` `MediatR` `SQL Server` `Docker`**
 >
 > Exploração prática de **CQRS** e **Clean Architecture** com um sistema completo de gerenciamento de pedidos. Pipeline dual-ORM: **Commands** via Entity Framework Core para escritas transacionais e **Queries** via Dapper para leituras de alta performance. Inclui **Rich Domain Models**, **Domain Events**, **FluentValidation** e **tratamento global de exceções** via middlewares customizados.
 
-> **🔐 [IdentityMicroservice | Estudo de Autenticação JWT & Clean Architecture](https://github.com/JulianoGalhardo9/jwt-auth-study)**
+> **[IdentityMicroservice | Estudo de Autenticação JWT & Clean Architecture](https://github.com/JulianoGalhardo9/jwt-auth-study)**
 >
 > **`.NET 9` `C# 13` `JWT` `BCrypt` `EF Core` `FluentValidation`**
 >
