@@ -65,6 +65,7 @@ Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance
 | Node.js | Rocketseat | 2025 |
 | C# \| .NET | Rocketseat | 2025 |
 | SQL | Rocketseat | 2025 |
+| Cloud | IBM | 2025 |
 | Angular | Rocketseat | 2026 |
 | C# \| .NET | Microsoft | 2026 |
 | C# \| .NET | FIAP | 2026 |
