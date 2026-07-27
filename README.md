@@ -4,9 +4,9 @@ Estudante de Engenharia de Software na FIAP (2º semestre), com passagem anterio
 
 Experiência em **engenharia de segurança**: autenticação JWT assimétrica, logs de auditoria imutáveis para conformidade e logging estruturado com Serilog. No **frontend**, atuo com Angular 18 e React em arquiteturas baseadas em componentes com consumo de APIs e padrões reativos via RxJS.
 
-Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations.
+Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations.Explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
 
-Atualmente explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
+Atualmente estagio em Engenharia de Dados na Shoulder, unindo minha base em backend a dados.
 
 Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance** e **boas práticas de engenharia de software**.
 
