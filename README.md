@@ -62,14 +62,11 @@ Inglês intermediário | Espanhol intermediário
 
 ## 💻 Tecnologias
 
-**Backend & Banco de dados**
+**Backend**
 
 ![Python](https://skillicons.dev/icons?i=py)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![C#](https://skillicons.dev/icons?i=cs)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-
 
 **Frontend**
 
@@ -82,6 +79,23 @@ Inglês intermediário | Espanhol intermediário
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![GitHub](https://skillicons.dev/icons?i=github)
+
+**Banco de dados**
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🌐 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:jgalhardodev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 ---
 
@@ -98,14 +112,3 @@ Inglês intermediário | Espanhol intermediário
 </div>
 
 ---
-
-## 🌐 Contato
-
-<p>
-  <a href="https://www.linkedin.com/in/juliano-galhardo-de-oliveira-5b05a035a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:jgalhardodev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
