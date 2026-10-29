@@ -6,7 +6,7 @@ No estágio, desenvolvo automações com BPM e Python para otimizar processos e 
 
 Como freelancer, desenvolvi um e-commerce para um cliente real. Com ele aprendi a ouvir o cliente, cumprir prazos e entregar com autonomia.
 
-Em projetos pessoais e acadêmicos, desenvolvo APIs em C# (.NET) e Node com Clean Architecture, CQRS e testes automatizados. Também trabalho com microsserviços, mensageria (RabbitMQ + MassTransit) e API Gateway (YARP), priorizando segurança (JWT), observabilidade (Serilog) e containerização com Docker.
+Em projetos pessoais e acadêmicos, desenvolvo APIs em C# (.NET) com Clean Architecture, CQRS e testes automatizados. Também trabalho com microsserviços, mensageria (RabbitMQ + MassTransit) e API Gateway (YARP), priorizando segurança (JWT), observabilidade (Serilog) e containerização com Docker.
 
 Estudei AWS na prática em projetos pessoais, com IAM, EC2, ECS, Fargate, Auto Scaling, S3, CloudFront e Lambda.
 
@@ -62,27 +62,25 @@ Inglês intermediário | Espanhol intermediário
 
 ## 💻 Tecnologias
 
-**Backend & Infraestrutura**
+**Backend & Banco de dados**
 
+![Python](https://skillicons.dev/icons?i=py)
 ![.NET](https://skillicons.dev/icons?i=dotnet)
 ![C#](https://skillicons.dev/icons?i=cs)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
-![Docker](https://skillicons.dev/icons?i=docker)
-![AWS](https://skillicons.dev/icons?i=aws)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+
 
 **Frontend**
 
 ![TypeScript](https://skillicons.dev/icons?i=typescript)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![React](https://skillicons.dev/icons?i=react)
-![Angular](https://skillicons.dev/icons?i=angular)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-**Banco de Dados & Versionamento**
+**Infraestrutura & Versionamento**
 
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
