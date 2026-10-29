@@ -60,22 +60,6 @@ Inglês intermediário | Espanhol intermediário
 
 ---
 
-## 🏆 Certificações
-
-| Certificação | Instituição | Ano |
-|---|---|---|
-| Programming Logic (CS50P) | HarvardX | 2025 |
-| Git e GitHub | FGV | 2025 |
-| Node.js | Rocketseat | 2025 |
-| C# \| .NET | Rocketseat | 2025 |
-| SQL | Rocketseat | 2025 |
-| Cloud | IBM | 2025 |
-| Angular | Rocketseat | 2026 |
-| C# \| .NET | Microsoft | 2026 |
-| C# \| .NET | FIAP | 2026 |
-
----
-
 ## 💻 Tecnologias
 
 **Backend & Infraestrutura**
