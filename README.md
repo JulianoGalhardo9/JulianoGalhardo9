@@ -1,14 +1,18 @@
 # Olá, sou Juliano Galhardo de Oliveira 👋
 
-Estudante de Engenharia de Software na FIAP (2º semestre), com passagem anterior pelo curso de Ciência da Computação no Instituto Mauá de Tecnologia(1 ano/ 2 semestre). Apaixonado por **desenvolvimento backend** com **Node**, **C# e .NET**, construindo sistemas robustos com Clean Architecture, APIs RESTful e SQL Server de serviços CRUD até ecossistemas de microsserviços distribuídos com CQRS, mensageria assíncrona (RabbitMQ + MassTransit) e API Gateways (YARP).
+Sou estudante de Engenharia de Software na FIAP e estagiário de Engenharia de Dados na Shoulder, com foco em automação, dados e desenvolvimento backend. Trabalho e estudo tecnologia desde 2025 e procuro sempre aplicar o que aprendo em projetos reais.
 
-Experiência em **engenharia de segurança**: autenticação JWT assimétrica, logs de auditoria imutáveis para conformidade e logging estruturado com Serilog. No **frontend**, atuo com Angular 18 e React em arquiteturas baseadas em componentes com consumo de APIs e padrões reativos via RxJS.
+No estágio, desenvolvo automações com BPM e Python para otimizar processos e apoiar as decisões dos times de BI, Digital e das lojas. Também trabalho com SQL Server na consulta, manipulação e estruturação de dados, e crio dashboards e automações no Qlik Sense para facilitar a análise e a tomada de decisão.
 
-Domínio de **Docker e conteinerização**, incluindo orquestração multi-container com Docker Compose e auto-migrations.Explorando infraestrutura AWS: IAM, EC2, ECS, Fargate, Auto Scaling, Load Balancers, S3, CloudFront, Lambda e deployments containerizados.
+Como freelancer, desenvolvi um e-commerce para um cliente real. Com ele aprendi a ouvir o cliente, cumprir prazos e entregar com autonomia.
 
-Atualmente estagio em Engenharia de Dados na Shoulder, unindo minha base em backend a dados.
+Em projetos pessoais e acadêmicos, desenvolvo APIs em C# (.NET) e Node com Clean Architecture, CQRS e testes automatizados. Também trabalho com microsserviços, mensageria (RabbitMQ + MassTransit) e API Gateway (YARP), priorizando segurança (JWT), observabilidade (Serilog) e containerização com Docker.
 
-Foco contínuo em **sistemas distribuídos**, **arquiteturas de alta performance** e **boas práticas de engenharia de software**.
+Estudei AWS na prática em projetos pessoais, com IAM, EC2, ECS, Fargate, Auto Scaling, S3, CloudFront e Lambda.
+
+No front-end, uso React para criar interfaces simples, responsivas e integradas às APIs que desenvolvo.
+
+Inglês intermediário | Espanhol intermediário
 
 ---
 
